@@ -1,0 +1,2 @@
+MABL/amigo_description:MABL/amigo_real:MABL/amigo_sim:rosaria
+-DCATKIN_DEVEL_PREFIX=/home/ros-admin/Desktop/wbw_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros-admin/Desktop/wbw_ws/install -G Unix Makefiles
